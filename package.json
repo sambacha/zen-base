@@ -1,0 +1,16 @@
+{
+  "name": "zen-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clipboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC",
+  "dependencies": {
+    "@github/clipboard-copy-element": "^1.1.2",
+    "@webcomponents/custom-elements": "^1.5.0"
+  }
+}
